@@ -35,5 +35,6 @@
 (ضع هنا صورة من اللعبة بعد رفعها مثلاً باسم `preview.png`)
 
 ```html
-![صورة من داخل اللعبة](preview.png)
+![صورة من داخل اللعبة](https://github.com/unknown3122017/scout-balloon-game/raw/main/game/preview.png)
+
 
